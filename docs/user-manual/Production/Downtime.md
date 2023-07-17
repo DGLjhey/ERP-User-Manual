@@ -25,3 +25,32 @@ To navigate to the **Production Downtime Page**:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Click on the **`New Production Downtime`** button.
 
+
+![Production Downtime](../img/production-DT-2.png)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Click on the **`Add Downtime`** button.
+
+![Production Downtime](../img/production-DT-3.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Input the necessary information for creating production downtime.
+
+![Production Downtime](../img/production-DT-4.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Click on the **`Save Downtime`** button to proceed.
+
+![Production Downtime](../img/production-DT-5.png)
+
+### Step 3: Confirming to save the added Production Downtime
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Click on the **`Yes`** button to save the downtime.
+
+![Production Downtime](../img/production-DT-6.png)
+
+:::info
+
+The added production downtime will now appear on the **Production Downtime page**.
+
+:::
+
+![Production Downtime](../img/production-DT-7.png)

@@ -3,50 +3,38 @@ sidebar_position: 3
 hide_title: true
 ---
 
-## Create a Purchase Order
+## Item Production Order History
 
 ### Overview
 
 <div class="justify-text">
-This section serves as a comprehensive guide on how to create a purchase order. By following these step-by-step instructions, users will be able to navigate the purchase order creation process.
+This section will walk you through the process of looking up to the Production History of a specific item.
 </div>
 
 ### Step 1: Navigate to the Page
 
-To navigate to the **Purchase Plan Page**:
+To navigate to the **Item Production Order History Page**:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Click on the **`Purchasing`** dropdown button.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Click on the **`Production`** dropdown button.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Select **`Purchase Plan`**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Select **`Item Production Order History`**.
 
-![Purchase Plan](../img/purchasing-plan.png)
+![Item Production Order History](../img/production-IPOH-1.png)
 
-### Step 2: Selecting item and Creating a Purchase Order
+### Step 2: Search an item by its item name or its item code
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Locate the **`item`** that you requested.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Input the **item name or item code**.
 
-![Purchase Plan](../img/plan-item.png)
+![Item Production Order History](../img/production-IPOH-2.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Click on the **`(+) Plus`** button to expand the details. 
 
-![Purchase Plan](../img/plan-expand.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Verify that the **`Details`** are correct. 
+:::info
 
-![Purchase Plan](../img/plan-details.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Put a **`Check`** mark to select the Purchase Request. 
-
-![Purchase Plan](../img/plan-check.png)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➥** Click on the **`Create PO`** button to create a **Purchase Order**.
-
-![Purchase Plan](../img/plan-create.png)
-
-:::tip SUCCESS
-
-Congratulations! You have successfully created a **Purchase Order**. 
+The production order history of the item you have searched will now be displayed.
 
 :::
+
+![Item Production Order History](../img/production-IPOH-3.png)
 
 

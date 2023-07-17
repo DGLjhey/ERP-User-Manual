@@ -60,4 +60,5 @@ The created stock issue will now appear on the "For Receiving" tab of the Issue 
 **`Note:`** Take note of the Stock Transfer No. of your created stock issue.
 
 :::
+
 ![Inventory Transfer Issue](../img/inventory-issue-7.png)
